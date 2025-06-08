@@ -1,0 +1,1 @@
+# script_geradorde_dados_banco_oracle
